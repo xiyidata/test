@@ -5,3 +5,5 @@ hive
 hadoop
 spark
 flink
+flume
+kafka
